@@ -4,7 +4,7 @@
       <my-menu/>
     </el-aside>
     <el-container>
-      <el-header class="bg-hex-c6e2ff">
+      <el-header height="50px" class="border-1 !px-0">
         <MyHeader/>
       </el-header>
       <el-main>Main</el-main>
@@ -24,5 +24,6 @@ defineComponent([MyMenu, MyHeader]);
 <style lang="less" scoped>
 :deep(.el-aside) {
   width: auto;
+  height: 100vh;
 }
 </style>

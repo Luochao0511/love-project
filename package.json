@@ -18,11 +18,11 @@
     "deps": "yarn upgrade-interactive --latest"
   },
   "dependencies": {
-    "@element-plus/icons-vue": "^2.0.1",
+    "@element-plus/icons-vue": "^2.0.6",
     "@vueuse/components": "^8.5.0",
     "@vueuse/core": "^8.5.0",
     "axios": "^0.27.2",
-    "element-plus": "^2.2.2",
+    "element-plus": "^2.2.6",
     "mockjs": "^1.1.0",
     "nprogress": "^0.2.0",
     "pinia": "^2.0.14",
